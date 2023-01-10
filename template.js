@@ -23,6 +23,9 @@ function template() {
 
             // Print a message to a pop up window
             MessageBox.information("Hello World!");
+
+            // Create cells for Drawings
+            Drawing.create(elementID, "nameOfCellToCreate", true, true);
         }
     }
 }
