@@ -24,7 +24,6 @@ function template() {
             // Print a message to the MessageLog
             MessageLog.trace("Hello World!");
 
-
             // Create cells for Drawings
             Drawing.create(elementID, "nameOfCellToCreate", true, true);
         }
