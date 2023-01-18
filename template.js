@@ -18,11 +18,12 @@ function template() {
             node.rename(currentNode, currNodeName);
             element.renameById(elementId, "nameToRenameTo");
 
+            // Print a message to a pop up window
+            MessageBox.information("Hello World!");
+
             // Print a message to the MessageLog
             MessageLog.trace("Hello World!");
 
-            // Print a message to a pop up window
-            MessageBox.information("Hello World!");
 
             // Create cells for Drawings
             Drawing.create(elementID, "nameOfCellToCreate", true, true);
