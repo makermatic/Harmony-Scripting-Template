@@ -41,7 +41,8 @@ Getting the internal attribute name as actually pretty simple. In the node view,
 
 Then when you open a node's property window, you'll see a gear button for each attribute, select the gear, then copy the `Attribute Keyword`
 
-![Recording 2025-03-05 at 09 54 32](https://github.com/user-attachments/assets/9d059b22-ebc1-42df-acae-42537df3c747)
+![Recording 2025-03-05 at 09 58 12](https://github.com/user-attachments/assets/f81344ed-e81c-4ce6-a833-0cc864061ac3)
+
 
 
 ## Conclusion
