@@ -4,7 +4,7 @@ function template() {
         // Get the path in the current node from the array
         var currentNode = selection.selectedNodes()[i];
 
-        // Check for node type before changing
+        // Check for node type before changing, good examples are "PEG", "GROUP", and "READ" for drawings(elements)
         if (node.type(currentNode) == "PEG") {
 
             // Change Attribute
